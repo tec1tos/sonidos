@@ -1,0 +1,42 @@
+--------------------09-12-2019 19:49:54 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Slam\csgo\Sad Romance (Violin Version) - YouTube.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.ContextDelete_Click(Object sender, EventArgs e)
+--------------------28-01-2020 7:04:39 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
+--------------------29-01-2020 1:16:59 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
+--------------------02-02-2020 3:50:41 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
+--------------------02-02-2020 3:50:49 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
+--------------------03-02-2020 5:37:17 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
+--------------------12-02-2020 17:52:14 UTC--------------------
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\voice_input.wav' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalDelete(String path, Boolean checkHost)
+   en System.IO.File.Delete(String path)
+   en SLAM.Form1.LoadTrack(SourceGame Game, Int32 index)
